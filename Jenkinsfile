@@ -13,7 +13,6 @@ pipeline {
 
         }
 
-
     stage('show Date') {
             steps {
 
