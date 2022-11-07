@@ -7,7 +7,7 @@ pipeline {
 
                 echo 'Pulling...';
                 git branch: 'main',
-                url : 'https://github.com/feres5/TP_Achat_devops';
+                url : 'https://github.com/yasminezzz/TP_Achat_devops';
 
             }
 
